@@ -1,0 +1,3 @@
+com\crm\tests\AdminTests.class
+com\crm\validators\AdminValidator.class
+com\crm\services\CrmServices.class

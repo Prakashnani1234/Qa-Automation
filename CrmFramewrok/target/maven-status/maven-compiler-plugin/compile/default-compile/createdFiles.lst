@@ -1,0 +1,5 @@
+com\crm\objectrep\PageObjects.class
+com\crm\config\CrmPageConstants.class
+com\crm\config\BaseConfiguration.class
+com\crm\data\CrmData.class
+com\crm\utils\CommonUtils.class

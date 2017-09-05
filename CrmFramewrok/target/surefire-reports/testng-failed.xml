@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [CRM Regression Test Suite]">
+  <test name="Admin Test(failed)">
+    <classes>
+      <class name="com.crm.tests.AdminTests">
+        <methods>
+          <include name="createAccountWithValidDataq"/>
+          <include name="init"/>
+        </methods>
+      </class> <!-- com.crm.tests.AdminTests -->
+    </classes>
+  </test> <!-- Admin Test(failed) -->
+</suite> <!-- Failed suite [CRM Regression Test Suite] -->
